@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color: #548687;
 }
 
 hr {
@@ -97,4 +98,5 @@ hr {
 .x8192 {
     background-color: #ff2020;
     color: white;
+
 }
